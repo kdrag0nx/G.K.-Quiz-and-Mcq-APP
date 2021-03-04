@@ -1,2 +1,19 @@
-# G.K. Quiz APP AND fAQ for Exam Preparations
- This app is created in Android Studio using Java , this app will contain two different app panel one is user panel and second one is admin panel
+# General Knowledge Quiz and McQs App
+
+## So a short highlights about this app :
+-  **This app will be made using Android Studio and `Java` as the language**
+ ***
+- **This app will use `Firebase` as it's Authentication and Storage using `Firebase Database` and `Firebase FireStore`.**
+***
+- **It will consist of two panel of Application**
+    - ***`User` Panel***
+    - ***`Admin` Panel***
+***
+
+- **`User` Panel Application will consist of the Quizzes and Questions which the User can give and test their knowledge as we are developing a G.K. Quiz Application**
+
+***
+
+- **`Admin` Panel Application will consist of the content and quizzes that Admin want to display to their user which include updating of the Questions and sending notification to user for taking quizzes or asking them to rate on play store in notification itself**
+
+***
