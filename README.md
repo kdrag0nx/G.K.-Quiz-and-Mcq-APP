@@ -17,3 +17,7 @@
 - **`Admin` Panel Application will consist of the content and quizzes that Admin want to display to their user which include updating of the Questions and sending notification to user for taking quizzes or asking them to rate on play store in notification itself**
 
 ***
+
+# Part wise readmes you can check from below:
+
+Part 1: [Introduction to User and Admin App]()
