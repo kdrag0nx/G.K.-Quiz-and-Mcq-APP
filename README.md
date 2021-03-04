@@ -20,4 +20,4 @@
 
 # Part wise readmes you can check from below:
 
-Part 1: [Introduction to User and Admin App]()
+Part 1: [Introduction to User and Admin App](https://codercic.blogspot.com/p/part-1-video-1-gk-quiz-app.html)
