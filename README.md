@@ -22,4 +22,4 @@
 
 Part 1: [Introduction to User and Admin App](https://codercic.blogspot.com/p/part-1-video-1-gk-quiz-app.html)
 
-Part 2: [Designing up the MainActivity xml and and Setting clickListeners on Buttons](https://youtu.be/JQrgw2NFgp0 "Part 2")
+Part 2: [Designing up the MainActivity xml and and Setting clickListeners on Buttons](https://codercic.blogspot.com/p/ecommerce-app-textual-documentary.html "Part 2")
